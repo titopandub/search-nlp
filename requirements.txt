@@ -1,2 +1,8 @@
 spacy
 numpy
+faiss-cpu
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers

@@ -92,7 +92,7 @@
       "hiv",
       "aids"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -1896,7 +1896,7 @@
       "million",
       "death"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       26.0,
@@ -3542,7 +3542,7 @@
       "indian",
       "ocean"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -5305,7 +5305,7 @@
       "people",
       "contact"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       26.0,
       26.0,
       0.0,
@@ -6918,7 +6918,7 @@
       "london",
       "1965"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -8671,7 +8671,7 @@
       "million",
       "death"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -10355,7 +10355,7 @@
       "infection",
       "rate"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -11947,7 +11947,7 @@
       "response",
       "virus"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -13545,7 +13545,7 @@
       "disease",
       "x."
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -15125,7 +15125,7 @@
       "weapons",
       "convention"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -16891,7 +16891,7 @@
       "identify",
       "1980s"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -18519,7 +18519,7 @@
       "general",
       "population"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -20070,7 +20070,7 @@
       "prevention",
       "respect"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -21692,7 +21692,7 @@
       "covid-19",
       "pandemic"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -23270,7 +23270,7 @@
       "linear",
       "scale"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -24840,7 +24840,7 @@
       "ebola",
       "virus"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -26376,7 +26376,7 @@
       "pandemic",
       "system"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -28100,7 +28100,7 @@
       "institute",
       "health"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -29710,7 +29710,7 @@
       "pandemic",
       "today"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -31426,7 +31426,7 @@
       "flu",
       "pandemic"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -33015,7 +33015,7 @@
       "infection",
       "pathogen"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -34714,7 +34714,7 @@
       "march",
       "2015"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -36276,7 +36276,7 @@
       "role",
       "strategy"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -37935,7 +37935,7 @@
       "jersey",
       "ocsme"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -39577,7 +39577,7 @@
       "hiv",
       "aids"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,
@@ -41399,7 +41399,7 @@
       "drug",
       "develop"
     ],
-    "tf_idf": [
+    "tf_idfs": [
       0.0,
       0.0,
       0.0,

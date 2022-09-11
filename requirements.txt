@@ -8,3 +8,4 @@ transformers
 sentence-transformers
 jupyter
 protobuf==3.20.1
+elasticsearch
